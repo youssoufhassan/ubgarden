@@ -1,0 +1,8 @@
+gardener: (1,1)
+level:1
+XXXXXXXXXX
+X        X
+X   A    X
+X   G    X
+X        X
+XXXXXXXXXX
